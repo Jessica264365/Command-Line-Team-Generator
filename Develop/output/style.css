@@ -1,0 +1,19 @@
+/* background image */
+body {
+  background-image: url("../images/background.jpg");
+}
+
+/* jumbotron background color */
+.jumbotron {
+  background-color: plum;
+}
+
+/* name and role header */
+.card-header {
+  background-color: lemonchiffon;
+}
+
+/* information card background */
+.card-body {
+  background-color: lightsteelblue;
+}
