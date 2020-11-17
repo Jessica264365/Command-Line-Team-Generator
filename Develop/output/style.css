@@ -1,19 +1,20 @@
 /* background image */
 body {
   background-image: url("../images/background.jpg");
+  background-size: cover;
 }
 
 /* jumbotron background color */
 .jumbotron {
-  background-color: plum;
+  background-color: grey;
 }
 
 /* name and role header */
 .card-header {
-  background-color: lemonchiffon;
+  background-color: rosybrown;
 }
 
 /* information card background */
 .card-body {
-  background-color: lightsteelblue;
+  background-color: gainsboro;
 }

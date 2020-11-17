@@ -1,4 +1,4 @@
-// TODO: Write code to define and export the Employee class
+// Employee Class is created and exported
 class Employee {
   constructor(name, id, email) {
     this.name = name;
