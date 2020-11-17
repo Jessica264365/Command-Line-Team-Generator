@@ -6,7 +6,7 @@ body {
 
 /* jumbotron background color */
 .jumbotron {
-  background-color: grey;
+  background-color: rgb(155, 153, 153);
 }
 
 /* name and role header */
@@ -17,4 +17,9 @@ body {
 /* information card background */
 .card-body {
   background-color: gainsboro;
+}
+
+.employee-card {
+  padding: 10px;
+  background: transparent;
 }
